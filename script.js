@@ -1,4 +1,4 @@
-// Ejercicio 1 - Algoritmo con un condicional
+
 
 
 alert("Bienvenido al simulador de inversiones")
